@@ -5,7 +5,7 @@
 export default function Home() {
     return (
         <div>
-            <h1>Livros de Programação</h1>
+            <h1>LOJA DE ROUPAS</h1>
         </div>
     );
 }
